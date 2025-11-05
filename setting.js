@@ -19,7 +19,9 @@ global.botfullname = "Miss Nexa"
 global.botname = "Miss Nexa"
 global.filename = "</> 𝙽𝚎𝚡𝚊 𝙻𝚊𝚋"
 global.footer = "© created by buymore tecnical team"
-module.exports = {
+global.chID = "120363347072990822@newsletter"
+global.chName = "Nexa Lab"
+modul.exports = {
   sesionName: "session",
   banchats: false,
   autoreadsw: false,
