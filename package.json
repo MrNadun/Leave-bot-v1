@@ -5,7 +5,7 @@
   "main": "nexa.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node nexa.js",
+    "start": "node nexa.js && node server.js",
     "pairing": "node nexa.js --pairing-code"
   },
   "author": "MrNadun",
